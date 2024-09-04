@@ -1,16 +1,20 @@
-# Github Repository Template based on Forge 1.16.5 MDK
+# LLG Dragon Reborn
 
-Minecraft Blank Mod based on Forge 1.16.5
+**About**
+This Is a Mod That is like the Early eraly versiosn of dragonfire or at the tiem it was called LIttle Lizards and Tiny Turtles How to Train your Dragon mod
+**Planned Features**
+- Dragons
+- Blocks
+- weapons
+- foods
+- events
+- addon pack creation
+and so much more 
 
- * After cloning, on command line, change to project directory...
- * To generate eclipse launch files and gradle project settings, run:
-
-```
-gradle genEclipseRuns --refresh-dependencise
-gradle eclipse
-```
- * To launch minecraft with mod from commandline, run:
-
-```
-gradle runClient
-```
+**Supported Versions**
+- 1.16.5
+- 1.18.2
+- 1.19.2
+- 1.20.1
+- 1.21.1 (maybe)
+**If their Is anything that you would like to add or help support Make sure to Join Our Discord At https://discord.gg/W49jjWdssR**
